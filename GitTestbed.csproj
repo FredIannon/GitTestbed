@@ -45,6 +45,7 @@
   <ItemGroup>
     <Compile Include="Class1_ToSquash.cs" />
     <Compile Include="Class2_ToSquash.cs" />
+    <Compile Include="Class3_ToSquash.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
