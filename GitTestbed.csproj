@@ -45,6 +45,7 @@
   <ItemGroup>
     <Compile Include="Gittestbed1_class1.cs" />
     <Compile Include="GitTestbed2_class.cs" />
+    <Compile Include="Gittestbed2_Master.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
