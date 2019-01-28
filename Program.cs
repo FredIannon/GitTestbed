@@ -6,7 +6,7 @@ namespace GitTestbed
     {
         static void Main()
         {
-            Console.WriteLine(@"This change was in: ToSquash1");
+            Console.WriteLine(@"This change was in: ToSquash2");
 
             Console.WriteLine(@"Press Enter to continue");
             Console.ReadLine();
