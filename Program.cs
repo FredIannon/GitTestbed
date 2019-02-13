@@ -16,6 +16,6 @@ namespace GitTestbed
 
 ///////////// Making commit #1-1
 
-///////////// Making commit #2
+///////////// Making commit #2-2
 
 ///////////// Making commit #3
